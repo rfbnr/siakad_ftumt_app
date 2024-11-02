@@ -19,7 +19,7 @@ class SiakadApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primary),
         fontFamily: "Poppins",
         appBarTheme: const AppBarTheme(
-          systemOverlayStyle: SystemUiOverlayStyle.light,
+          systemOverlayStyle: SystemUiOverlayStyle.dark,
         ),
         pageTransitionsTheme: PageTransitionsTheme(
           builders: {
